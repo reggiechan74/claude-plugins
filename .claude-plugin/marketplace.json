@@ -1,0 +1,14 @@
+{
+  "name": "local-dev",
+  "owner": {
+    "name": "Reggie Chan"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-metaskill",
+      "source": "./",
+      "description": "Documentation Skills for all Claude Code features - automatically loads relevant docs when you mention slash commands, sub-agents, hooks, plugins, MCP, output styles, and more",
+      "version": "1.0.0"
+    }
+  ]
+}
