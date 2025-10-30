@@ -1,13 +1,14 @@
 {
-  "name": "local-dev",
+  "name": "reggiechan74-tools",
   "owner": {
-    "name": "Reggie Chan"
+    "name": "Reggie Chan",
+    "email": "[email protected]"
   },
   "plugins": [
     {
       "name": "claude-code-metaskill",
-      "source": "./",
-      "description": "Documentation Skills for all Claude Code features - automatically loads relevant docs when you mention slash commands, sub-agents, hooks, plugins, MCP, output styles, and more",
+      "source": "./plugins/claude-code-metaskill",
+      "description": "Documentation and guidance for Claude Code features",
       "version": "1.0.0"
     }
   ]
