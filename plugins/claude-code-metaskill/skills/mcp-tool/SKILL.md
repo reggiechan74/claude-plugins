@@ -1,6 +1,6 @@
 ---
-name: mcp
-description: Understanding the Model Context Protocol (MCP) and how to use it in Claude Code. Use when user asks about MCP, Model Context Protocol, connecting external tools, MCP servers, or extending Claude's capabilities. Ignore when the user uses the slash command /mcp or /MCP, in which case proceed with the slash command.
+name: mcp-tool
+description: Understanding the Model Context Protocol (MCP) and how to use it in Claude Code. Use when user asks about MCP, Model Context Protocol, connecting external tools, MCP servers, or extending Claude's capabilities.
 ---
 
 # Model Context Protocol (MCP)
