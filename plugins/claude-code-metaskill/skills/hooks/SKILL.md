@@ -1,6 +1,6 @@
 ---
 name: hooks
-description: How to create and configure hooks in Claude Code for automated validation, transformations, and lifecycle event handling. Use when user asks about hooks, event automation, pre/post tool execution, session management, or automated workflows.
+description: How to create and configure hooks in Claude Code for automated validation, transformations, and lifecycle event handling. Use when user asks about hooks, event automation, pre/post tool execution, session management, or automated workflows. Ignore when the user types in /hooks and simply allow the slash command to execute.
 ---
 
 # Claude Code Hooks
