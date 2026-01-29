@@ -72,7 +72,7 @@ templates/
    - `--replace` (default): Use only the selected variant(s)
    - `--merge`: Combine base.json + selected variant(s)
 4. **Determine output location** based on `--scope`:
-   - `local`: `./settings.json`
+   - `local`: `.claude/settings.local.json`
    - `project`: `.claude/settings.json`
    - `user` (default): `~/.claude/settings.json`
 5. **Write settings.json** with spinnerVerbs configuration

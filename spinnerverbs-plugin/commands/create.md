@@ -88,7 +88,7 @@ If `--combine`: Each phrase incorporates BOTH tech parody AND cynicism
 ## Output Location
 
 Determine save location based on `--scope`:
-- `local`: `./settings.json`
+- `local`: `.claude/settings.local.json`
 - `project`: `.claude/settings.json`
 - `user` (default): `~/.claude/settings.json`
 
