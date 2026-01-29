@@ -12,19 +12,24 @@ Add this marketplace to Claude Code:
 
 ## Available Plugins
 
-### claude-code-metaskill
+### spinnerverbs
 
-Documentation and guidance for Claude Code features including agents, skills, hooks, slash commands, and more.
+Generate and apply themed spinner verbs for Claude Code status messages.
 
 **Install:**
 ```bash
-/plugin install claude-code-metaskill@reggiechan74
+/plugin install spinnerverbs@reggiechan74
 ```
 
 **Features:**
-- Comprehensive Claude Code documentation
-- 20+ specialized skills covering all Claude Code features
-- Interactive help system
+- Pre-built themes: Star Trek, Game of Thrones, Mandalorian
+- Custom theme generation from any description
+- Style modifiers: `--parody` (AI/coding humor) and `--cynic` (pessimistic twist)
+- Flexible scoping: local, project, or user-level
+
+**Commands:**
+- `/spinnerverbs:create [theme]` - Generate custom themed spinner verbs
+- `/spinnerverbs:apply [template]` - Apply a pre-built theme
 
 ## Usage
 
@@ -38,8 +43,8 @@ Or install directly by name as shown above.
 
 ## Contributing
 
-Found an issue or have a suggestion? Please open an issue in the respective plugin repository.
+Found an issue or have a suggestion? Please open an issue in the repository.
 
 ## License
 
-Each plugin has its own license. See individual plugin repositories for details.
+Each plugin has its own license. See individual plugin directories for details.

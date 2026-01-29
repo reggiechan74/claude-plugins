@@ -1,0 +1,32 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "Winter is coming... along with more tokens",
+      "A Lannister always pays his API debts",
+      "The codebase is dark and full of bugs",
+      "Valar Morghulis (All code must die)",
+      "Valar Dohaeris (All code must serve)",
+      "When you play the game of prompts, you win or you timeout",
+      "The context window remembers",
+      "Dracarys! (Refactoring initiated)",
+      "Hold the context!",
+      "What is deprecated may never die",
+      "Fire and sub-agents",
+      "Chaos is a codebase",
+      "You know nothing about this API",
+      "A model needs context like a sword needs a whetstone",
+      "The things I do for good code",
+      "Not today, rate limit",
+      "Fear cuts deeper than syntax errors",
+      "A model does not concern itself with hallucinations",
+      "All code must be refactored",
+      "The token count gathers",
+      "I query and I know things",
+      "Bend the schema",
+      "By what right does the linter judge the code?",
+      "Any agent who must say I am the main agent is no true agent",
+      "Context resides where tokens believe it resides"
+    ]
+  }
+}

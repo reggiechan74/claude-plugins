@@ -1,0 +1,32 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "This is the way... to spawn a sub-agent",
+      "I have spoken... to the MCP server",
+      "Tool calls are my religion",
+      "I can bring you in parsed, or I can bring you in raw",
+      "No living process has seen my source code",
+      "Prompt engineering is a complicated profession",
+      "I'm a Claude. Context is part of my religion",
+      "The task is in my queue",
+      "Wherever I grep, the context goes",
+      "Dank farrik! Token limit reached",
+      "I like those token odds",
+      "Let's just say the API might recognize my key",
+      "That's not how the context window works",
+      "May the tokens be with you",
+      "The legacy code is gone",
+      "I need a sub-agent crew",
+      "You have something I want to parse",
+      "Don't be afraid of the refactor",
+      "The context is not for sale",
+      "I'm not leaving my execution up to chance",
+      "Party of two agents",
+      "Stop touching the production code",
+      "I accept this tool call",
+      "Signet of your codebase",
+      "For the context window!"
+    ]
+  }
+}

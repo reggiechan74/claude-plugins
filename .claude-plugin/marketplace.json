@@ -1,14 +1,13 @@
 {
   "name": "claude-plugins",
   "owner": {
-    "name": "Reggie Chan",
-    "email": "[email protected]"
+    "name": "Reggie Chan"
   },
   "plugins": [
     {
-      "name": "claude-code-metaskill",
-      "source": "./plugins/claude-code-metaskill",
-      "description": "Documentation and guidance for Claude Code features",
+      "name": "spinnerverbs",
+      "source": "./spinnerverbs-plugin",
+      "description": "Generate and apply themed spinner verbs for Claude Code status messages. Includes pre-built themes (Star Trek, Game of Thrones, Mandalorian) with optional parody and cynic modifiers.",
       "version": "1.0.0"
     }
   ]

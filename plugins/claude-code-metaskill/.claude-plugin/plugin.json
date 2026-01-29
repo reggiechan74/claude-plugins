@@ -1,8 +1,0 @@
-{
-  "name": "claude-code-metaskill",
-  "description": "Documentation Skills for all Claude Code features - automatically loads relevant docs when you mention slash commands, sub-agents, hooks, plugins, MCP, output styles, and more",
-  "version": "1.0.0",
-  "author": {
-    "name": "Reggie Chan"
-  }
-}

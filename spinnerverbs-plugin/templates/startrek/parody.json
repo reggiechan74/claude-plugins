@@ -1,0 +1,35 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "Spawning sub-agent. Engage!",
+      "Make it so... the context window allows",
+      "Live long and /prosper",
+      "Beam me up, the context window is full",
+      "Hailing MCP servers, frequencies open",
+      "Set phasers to refactor",
+      "Warp 9 through the codebase",
+      "Red alert! Token limit approaching",
+      "Resistance is futile. You will be tokenized.",
+      "The sub-agent is dead, Jim",
+      "I'm giving her all the tokens she's got!",
+      "Highly illogical... but I'll try anyway",
+      "Fascinating hallucination detected",
+      "The needs of the context outweigh the needs of the few",
+      "Codebase, the final frontier",
+      "To boldly grep where no agent has grepped before",
+      "There are FOUR tool calls!",
+      "Sensors detecting code anomaly",
+      "Guardrails up!",
+      "Transporter room... I mean MCP server standing by",
+      "All agents, parallel stations",
+      "File path laid in, Captain",
+      "I'm a doctor, not an agentic engineer!",
+      "Logic dictates we need more context",
+      "Your code will be added to our own",
+      "It's code, Jim, but not as we know it",
+      "Energize the sub-agent!",
+      "Tool calls assembled"
+    ]
+  }
+}
