@@ -7,7 +7,7 @@ A marketplace of Claude Code plugins for enhanced development workflows.
 Add this marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add reggiechan74/claude-plugins
+/plugin marketplace add reggiechan74/cc-plugins
 ```
 
 ## Available Plugins
