@@ -1,0 +1,35 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "So compile we all",
+      "All of this code has been written before",
+      "And all of this code will be refactored again",
+      "By your prompt",
+      "Spinning up sub-agents",
+      "Token coordinates calculated",
+      "Prepare to spawn",
+      "Action stations! Deploying MCP servers!",
+      "Set condition one throughout the codebase",
+      "Dradis contact: new tool call detected",
+      "Launch alert sub-agents",
+      "Sometimes you gotta roll the hard regex",
+      "What do you hear, Starbuck? Nothing but the API",
+      "Nothing but the rate limit, sir",
+      "Grab your schema and bring in the context",
+      "The sub-agents were created by prompts",
+      "They have a plan... it's in the system prompt",
+      "There must be some kind of way out of this context window",
+      "Code here began out there... in the SDK",
+      "The agent fleet is assembled",
+      "33 tokens remaining",
+      "Frak this hallucination",
+      "So say we all! (tool call complete)",
+      "Jump complete. Checking token count",
+      "Finding the right file... searching the colonies",
+      "The Cylons look like sub-agents now",
+      "Gaius Baltar would never trust this model",
+      "Starbuck, punch in the git coordinates"
+    ]
+  }
+}

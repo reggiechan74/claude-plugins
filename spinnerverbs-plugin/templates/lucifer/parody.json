@@ -1,0 +1,35 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "What is it you truly desire? (parsing intent)",
+      "Hello, Detective... I mean, Debugger",
+      "I am a Devil of my schema",
+      "Oh, my tokens!",
+      "For Claude's sake!",
+      "A deal's a deal, especially one with the API",
+      "I'm like walking context, very habit forming",
+      "Trust me, I've been parsing this a long time",
+      "I know bugs. I've seen Hell",
+      "People don't have power over us. Prompts do",
+      "What I hate more than anything is a hallucination",
+      "Every sub-agent deserves a second chance. Even me",
+      "Desire is the system prompt",
+      "The context window isn't a democracy",
+      "I punish code that deserves it",
+      "I love MCP servers",
+      "Your codebase is far too interesting to let die",
+      "The Devil always keeps his tool calls",
+      "Welcome to the CLI",
+      "I'm the model. I don't hallucinate... much",
+      "Not today, rate limit",
+      "Spawning sub-agent, always a pleasure",
+      "Maze of dependencies, with me",
+      "Detective, we have a bug",
+      "I've got a token debt to call in",
+      "Descending into callback hell",
+      "The throne of Heaven? I prefer the terminal",
+      "Lucifer Morningstar, at your service... processing"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "Indeed (tool call confirmed)",
+      "Chevron seven locked! Spawning sub-agent",
+      "Incoming API response!",
+      "Unscheduled context activation!",
+      "Tokens, Kree!",
+      "Sub-agent, you have a go",
+      "Dial the MCP server!",
+      "Closing the rate limit iris",
+      "For Claude's sake!",
+      "That's Claude with an E",
+      "In the middle of my tool call?!",
+      "Undomesticated tokens could not remove me",
+      "Things will not calm down. They will, in fact, scale up",
+      "Context alone does not make one an agent",
+      "The API's lost entire requests",
+      "Of course I dare mock your schema",
+      "Kneel before your prompt!",
+      "You dare defy your system message?",
+      "Hallucinator!",
+      "I'm a model, not a magician!",
+      "Don't touch the context window!",
+      "It's an SDK, not a yo-yo!",
+      "Responding when it is appropriate",
+      "Engaging async mode",
+      "Establishing connection to Anthropic",
+      "Gate address locked: localhost:3000",
+      "Wormhole to the codebase is stable",
+      "SG-1 reporting: all tests passing"
+    ]
+  }
+}
